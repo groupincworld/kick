@@ -1,0 +1,37 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<HTML><HEAD><META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<TITLE>ERROR: The requested URL could not be retrieved</TITLE>
+<STYLE type="text/css"><!--BODY{background-color:#ffffff;font-family:verdana,sans-serif}PRE{font-family:sans-serif}--></STYLE>
+</HEAD><BODY>
+<H2>The requested URL could not be retrieved</H2>
+<HR noshade size="1px">
+<P>
+While trying to retrieve the URL:
+<A HREF="http://kickassto.co/css/images/logo/kat_logo_ny-2x-0883175.png">http://kickassto.co/css/images/logo/kat_logo_ny-2x-0883175.png</A>
+<P>
+The following error was encountered:
+<BLOCKQUOTE>
+Unable to determine IP address from host name for
+<I>kickassto.co</I>
+</BLOCKQUOTE>
+
+<P>
+The dnsserver returned:
+<BLOCKQUOTE>
+Server Failure: The name server was unable to process this query.
+</BLOCKQUOTE>
+
+<P>
+This means that:
+<PRE>
+ The cache was not able to resolve the hostname presented in the URL. 
+ Check if the address is correct. 
+</PRE>
+<P>Your cache administrator is <A HREF="mailto:root">root</A>. 
+
+<BR clear="all">
+<HR noshade size="1px">
+<ADDRESS>
+Generated Fri, 23 Sep 2016 13:08:25 GMT by fremont01.datatrip.net (squid/2.6.STABLE21)
+</ADDRESS>
+</BODY></HTML>
